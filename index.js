@@ -1,4 +1,4 @@
-/* //let var const
+//let var const
 
 //Named Function
 console.log("Named Function")
