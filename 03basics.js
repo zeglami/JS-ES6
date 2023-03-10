@@ -44,7 +44,7 @@ console.log("for with of key word")
 for (let elmt of arr){
   console.log(elmt)
 }
- */
+
 
 
 
